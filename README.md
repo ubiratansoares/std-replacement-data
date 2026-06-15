@@ -7,6 +7,11 @@ what the crate provides and where to find the equivalent API.
 Every entry is a checkable factual statement about `std`, never an opinion about
 a competing crate.
 
+> [!NOTE]
+> This dataset is maintained by the crates.io team. Other tools are welcome to
+> consume the published JSON. We aim to make it a stable data source, but until
+> then its contents and format may still change without warning.
+
 ## Data
 
 Each crate lives in its own file at `data/<crate>.toml`:
